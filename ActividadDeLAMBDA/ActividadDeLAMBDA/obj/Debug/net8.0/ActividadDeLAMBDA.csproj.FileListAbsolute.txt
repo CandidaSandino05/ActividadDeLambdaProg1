@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\bin\Debug\net8.0\ActividadDeLAMBDA.exe
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\bin\Debug\net8.0\ActividadDeLAMBDA.deps.json
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\bin\Debug\net8.0\ActividadDeLAMBDA.runtimeconfig.json
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\bin\Debug\net8.0\ActividadDeLAMBDA.dll
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\bin\Debug\net8.0\ActividadDeLAMBDA.pdb
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.AssemblyInfo.cs
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.dll
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\refint\ActividadDeLAMBDA.dll
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.pdb
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ActividadDeLAMBDA.genruntimeconfig.cache
+C:\Users\HP\source\repos\ActividadDeLAMBDA\ActividadDeLAMBDA\obj\Debug\net8.0\ref\ActividadDeLAMBDA.dll
